@@ -1,0 +1,7 @@
+{
+  "functions": {
+    "api/bot/route.ts": {
+      "runtime": "nodejs18.x"
+    }
+  }
+}
